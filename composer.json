@@ -1,0 +1,17 @@
+{
+    "name": "kvelaro/php-trees",
+    "version": "1.0.0",
+    "description": "Tree helper class for PHP",
+    "authors": [
+        {
+            "name": "Kamil Velaro",
+            "email": "kamilvelaro@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+      "Kvelaro\\PhpTrees\\": "src"
+    }
+  }
+}
