@@ -1,6 +1,6 @@
 <?php
 
-namespace Kvelaro\TreeHelper\Trees;
+namespace Kvelaro\PhpTrees\Trees;
 
 class AbstractTree
 {
